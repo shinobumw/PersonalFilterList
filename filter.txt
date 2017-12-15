@@ -4,11 +4,8 @@
 ! Last modified: 2017.12.14
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
-! From: https://github.com/.txt
+! From: https://github.com/shinobumw/PersonalFilterList/blob/master/filter.txt
 ! --------------------------------------------------------------------------- !
-! https://listen.moe/#/home
-||listen.moe/files/images/kanna.gif$image
-||listen.moe/files/images/tomori.png$image
 
 ! ptt
 www.ptt.cc###navigation-container
