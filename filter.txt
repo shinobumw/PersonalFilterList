@@ -1,0 +1,32 @@
+[uBlock Origin]
+! Title: shinobumw's list
+! Author: shinobumw
+! Last modified: 2017.12.14
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/shinobumw/PersonalFilterList
+! From: https://github.com/.txt
+! --------------------------------------------------------------------------- !
+! https://listen.moe/#/home
+||listen.moe/files/images/kanna.gif$image
+||listen.moe/files/images/tomori.png$image
+
+! ptt
+www.ptt.cc###navigation-container
+www.ptt.cc###article-polling
+www.ptt.cc###topbar-container
+
+! anime1.me
+@@||static.anime1.me/adblockDetect/ads.js?$script,first-party
+
+! slader.com
+@@||plus.addkt.com/slader.js$script,domain=www.slader.com
+
+!nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
+!nhentai.net##script:contains(show_popunders)
+||nhentai.net^$popup
+||nhentai.net/api/_/popunder?$important
+||nhentai.net/api/_/popunder?$important,popup
+
+! --------------------------------------------------------------------------- !
+! Tesing
+! --------------------------------------------------------------------------- !
