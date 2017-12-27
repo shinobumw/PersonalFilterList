@@ -4,7 +4,7 @@
 ! Last modified: 2017.12.14
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
-! From: https://github.com/shinobumw/PersonalFilterList/blob/master/filter.txt
+! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
 
 ! ptt
