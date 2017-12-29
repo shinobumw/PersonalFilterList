@@ -27,3 +27,42 @@ www.ptt.cc###topbar-container
 ! --------------------------------------------------------------------------- !
 ! Tesing
 ! --------------------------------------------------------------------------- !
+
+! Make baiduyun load faster
+*monitor.jpg?xcode
+http://127.0.0.1:1000*/guanjia*
+
+
+! 讓PTT網頁版的文章比較好擷取
+www.ptt.cc###navigation-container
+www.ptt.cc###topbar-container
+www.ptt.cc###article-polling
+
+
+! 2017/3/9 上午1:00:15 http://live.sk-knower.com/other
+live.sk-knower.com###outfeature
+
+! Fuck you hellobar
+###hellobar-container
+###hellobar-takeover
+###hellobar-wrapper
+###hellobar_container
+###hellobar-bar
+###hellobar-modal
+###hellobar-modal-background
+||hellobar.com^$third-party
+www.playpcesor.com###hellobar
+
+
+! 2017/3/21 上午1:21:06 http://gelbooru.com/index.php?page=post&s=view&id=3584371
+gelbooru.com###paginater
+
+! Block ads on pt site 
+! 2017-6-7 12:42:31 http://hdhome.org/torrents.php
+||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
+
+! 2017-6-7 12:42:45 https://www.torrentleech.org/
+||www.torrentleech.org/images/DisableAdblock.png$image
+
+! 2017/6/28 下午7:07:18 https://zh.moegirl.org/Nobunaga
+zh.moegirl.org###siteNotice > .please-donate
