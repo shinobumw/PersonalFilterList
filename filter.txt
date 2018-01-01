@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2017.12.14
-! Expires: 7 days (update frequency)
+! Last modified: 2018.01.02
+! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
@@ -24,6 +24,24 @@ www.ptt.cc###topbar-container
 ||nhentai.net/api/_/popunder?$important
 ||nhentai.net/api/_/popunder?$important,popup
 
+! Block ads on pt site 
+! hdhome
+||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
+! torrentleech
+||www.torrentleech.org/images/DisableAdblock.png$image
+
+! https://zh.moegirl.org/Nobunaga
+zh.moegirl.org###siteNotice > .please-donate
+
+! 讓PTT網頁版的文章比較好擷取
+www.ptt.cc###navigation-container
+www.ptt.cc###topbar-container
+www.ptt.cc###article-polling
+
+! http://live.sk-knower.com/other
+live.sk-knower.com###outfeature
+
+
 ! --------------------------------------------------------------------------- !
 ! Tesing
 ! --------------------------------------------------------------------------- !
@@ -31,16 +49,6 @@ www.ptt.cc###topbar-container
 ! Make baiduyun load faster
 *monitor.jpg?xcode
 http://127.0.0.1:1000*/guanjia*
-
-
-! 讓PTT網頁版的文章比較好擷取
-www.ptt.cc###navigation-container
-www.ptt.cc###topbar-container
-www.ptt.cc###article-polling
-
-
-! 2017/3/9 上午1:00:15 http://live.sk-knower.com/other
-live.sk-knower.com###outfeature
 
 ! Fuck you hellobar
 ###hellobar-container
@@ -52,17 +60,3 @@ live.sk-knower.com###outfeature
 ###hellobar-modal-background
 ||hellobar.com^$third-party
 www.playpcesor.com###hellobar
-
-
-! 2017/3/21 上午1:21:06 http://gelbooru.com/index.php?page=post&s=view&id=3584371
-gelbooru.com###paginater
-
-! Block ads on pt site 
-! 2017-6-7 12:42:31 http://hdhome.org/torrents.php
-||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
-
-! 2017-6-7 12:42:45 https://www.torrentleech.org/
-||www.torrentleech.org/images/DisableAdblock.png$image
-
-! 2017/6/28 下午7:07:18 https://zh.moegirl.org/Nobunaga
-zh.moegirl.org###siteNotice > .please-donate
