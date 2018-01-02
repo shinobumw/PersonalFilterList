@@ -7,10 +7,10 @@
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
 
-! ptt
+! 讓PTT網頁版的文章比較好擷取
 www.ptt.cc###navigation-container
-www.ptt.cc###article-polling
 www.ptt.cc###topbar-container
+www.ptt.cc###article-polling
 
 ! anime1.me
 @@||static.anime1.me/adblockDetect/ads.js?$script,first-party
@@ -32,11 +32,6 @@ www.ptt.cc###topbar-container
 
 ! https://zh.moegirl.org/Nobunaga
 zh.moegirl.org###siteNotice > .please-donate
-
-! 讓PTT網頁版的文章比較好擷取
-www.ptt.cc###navigation-container
-www.ptt.cc###topbar-container
-www.ptt.cc###article-polling
 
 ! http://live.sk-knower.com/
 live.sk-knower.com###outfeature
