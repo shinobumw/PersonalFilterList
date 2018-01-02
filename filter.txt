@@ -24,7 +24,7 @@ www.ptt.cc###topbar-container
 ||nhentai.net/api/_/popunder?$important
 ||nhentai.net/api/_/popunder?$important,popup
 
-! Block ads on pt site 
+! Block ads on pt sites.
 ! hdhome
 ||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
 ! torrentleech
@@ -38,7 +38,7 @@ www.ptt.cc###navigation-container
 www.ptt.cc###topbar-container
 www.ptt.cc###article-polling
 
-! http://live.sk-knower.com/other
+! http://live.sk-knower.com/
 live.sk-knower.com###outfeature
 
 
@@ -50,7 +50,7 @@ live.sk-knower.com###outfeature
 *monitor.jpg?xcode
 http://127.0.0.1:1000*/guanjia*
 
-! Fuck you hellobar
+! hellobar
 ###hellobar-container
 ###hellobar-takeover
 ###hellobar-wrapper
