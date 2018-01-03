@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.01.02
+! Last modified: 2018.01.04
 ! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -25,15 +25,16 @@ www.ptt.cc###article-polling
 ||nhentai.net/api/_/popunder?$important,popup
 
 ! Block ads on pt sites.
-! hdhome
+! hdhome.org
 ||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
-! torrentleech
+! torrentleech.org
 ||www.torrentleech.org/images/DisableAdblock.png$image
+www.torrentleech.org###supportTorrentLeech_text
 
 ! https://zh.moegirl.org/Nobunaga
 zh.moegirl.org###siteNotice > .please-donate
 
-! http://live.sk-knower.com/
+! http://live.sk-knower.com
 live.sk-knower.com###outfeature
 
 
