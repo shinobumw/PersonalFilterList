@@ -11,6 +11,7 @@
 www.ptt.cc###navigation-container
 www.ptt.cc###topbar-container
 www.ptt.cc###article-polling
+www.ptt.cc##.bbs-footer-message.bbs-screen
 
 ! anime1.me
 @@||static.anime1.me/adblockDetect/ads.js?$script,first-party
