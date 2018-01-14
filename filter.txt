@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.01.04
+! Last modified: 2018.01.14
 ! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -37,7 +37,6 @@ zh.moegirl.org###siteNotice > .please-donate
 
 ! http://live.sk-knower.com
 live.sk-knower.com###outfeature
-
 
 ! --------------------------------------------------------------------------- !
 ! Tesing
