@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.01.14
+! Last modified: 2018.01.30
 ! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -25,7 +25,7 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 ||nhentai.net/api/_/popunder?$important
 ||nhentai.net/api/_/popunder?$important,popup
 
-! Block ads on pt sites.
+! Block ads on some pt sites.
 ! hdhome.org
 ||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
 ! torrentleech.org
