@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.01.30
+! Last modified: 2018.03.02
 ! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -32,6 +32,9 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 ||www.torrentleech.org/images/DisableAdblock.png$image
 www.torrentleech.org###supportTorrentLeech_text
 www.torrentleech.org###memberBar:nth-of-type(3)
+! https://hdchina.org/torrents.php
+hdchina.org###ad_belownav
+hdchina.org##.AiD_top
 
 ! https://zh.moegirl.org/Nobunaga
 zh.moegirl.org###siteNotice > .please-donate
