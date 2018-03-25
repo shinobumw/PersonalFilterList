@@ -2,6 +2,7 @@
 ! Title: shinobumw's list
 ! Author: shinobumw
 ! Last modified: 2018.03.25
+! Expires: 3 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
@@ -41,9 +42,7 @@ zh.moegirl.org###siteNotice > .please-donate
 ! http://live.sk-knower.com
 live.sk-knower.com###outfeature
 
-! --------------------------------------------------------------------------- !
-! Tesing
-! --------------------------------------------------------------------------- !
+! -------------------------------------Tesing------------------------------------- !
 
 ! Make baiduyun load faster
 *monitor.jpg?xcode
