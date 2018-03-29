@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.03.25
+! Last modified: 2018.03.29
 ! Expires: 3 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -15,6 +15,7 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 
 ! anime1.me
 @@||static.anime1.me/adblockDetect/ads.js?$script,first-party
+@@||static.anime1.me/ads.js?ads=ads$script,first-party
 
 ! slader.com
 @@||plus.addkt.com/slader.js$script,domain=www.slader.com
