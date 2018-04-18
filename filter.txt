@@ -29,10 +29,6 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 ! Block ads on some pt sites.
 ! hdhome.org
 ||i4.buimg.com/508806/d53a8d13a40f814d.gif$image
-! torrentleech.org
-||www.torrentleech.org/images/DisableAdblock.png$image
-www.torrentleech.org###supportTorrentLeech_text
-www.torrentleech.org###memberBar:nth-of-type(3)
 ! hdchina.org
 hdchina.org###ad_belownav
 hdchina.org##.AiD_top
