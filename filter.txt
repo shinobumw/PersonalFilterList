@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.04.27
+! Last modified: 2018.05.06
 ! Expires: 3 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -20,11 +20,11 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 ! slader.com
 @@||plus.addkt.com/slader.js$script,domain=www.slader.com
 
-!nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
-!nhentai.net##script:contains(show_popunders)
-||nhentai.net^$popup
-||nhentai.net/api/_/popunder?$important
-||nhentai.net/api/_/popunder?$important,popup
+! nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
+! nhentai.net##script:contains(show_popunders)
+! ||nhentai.net^$popup
+! ||nhentai.net/api/_/popunder?$important
+! ||nhentai.net/api/_/popunder?$important,popup
 
 ! Block ads on some pt sites.
 ! hdhome.org
