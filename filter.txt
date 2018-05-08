@@ -42,7 +42,7 @@ zh.moegirl.org###siteNotice > .please-donate
 live.sk-knower.com###outfeature
 
 ! hackmd.io
-hackmd.io##.annoucement
+hackmd.io##.announcement
 
 ! https://www.playpcesor.com
 www.playpcesor.com###spb-information-bar
