@@ -44,8 +44,11 @@ live.sk-knower.com###outfeature
 ! hackmd.io
 hackmd.io##.announcement
 
-! https://www.playpcesor.com
+! www.playpcesor.com
 www.playpcesor.com###spb-information-bar
+
+! www.tenlong.com.tw/
+||staticxx.facebook.com/connect/xd_arbiter/r/RQ7NiRXMcYA.js?version=42$subdocument
 
 ! -------------------------------------Tesing------------------------------------- !
 
