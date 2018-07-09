@@ -48,8 +48,7 @@ hackmd.io##.announcement
 www.playpcesor.com###spb-information-bar
 
 ! www.tenlong.com.tw/
-||staticxx.facebook.com/connect/xd_arbiter/r/RQ7NiRXMcYA.js?version=42$subdocument
-||staticxx.facebook.com/connect/xd_arbiter/r/xaOI6zd9HW9.js?version=42$subdocument
+||staticxx.facebook.com/connect/xd_arbiter/r/*.js?version=42$subdocument
 
 ! -------------------------------------Tesing------------------------------------- !
 
