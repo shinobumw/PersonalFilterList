@@ -34,6 +34,8 @@ hdchina.org###ad_belownav
 hdchina.org##.AiD_top
 ! ourbits.club
 ourbits.club###ad_belownav
+! iptorrents.com
+iptorrents.com###body > tbody > tr > td > div:nth-of-type(1)
 
 ! https://zh.moegirl.org/Nobunaga
 zh.moegirl.org###siteNotice > .please-donate
