@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.06.23
+! Last modified: 2018.08.03
 ! Expires: 3 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -32,6 +32,7 @@ www.ptt.cc##.bbs-footer-message.bbs-screen
 ! hdchina.org
 hdchina.org###ad_belownav
 hdchina.org##.AiD_top
+hdchina.org##.top_back
 ! ourbits.club
 ourbits.club###ad_belownav
 ! iptorrents.com
