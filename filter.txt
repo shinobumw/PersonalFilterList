@@ -55,6 +55,12 @@ www.playpcesor.com###spb-information-bar
 ! www.tenlong.com.tw/
 ||staticxx.facebook.com/connect/xd_arbiter/r/*.js?version=42$subdocument
 
+! javfree.me
+javfree.me###text-2
+
+! www.south-plus.net/
+||www.south-plus.net/images/*.gif$image
+
 ! -------------------------------------Tesing------------------------------------- !
 
 ! Make baiduyun load faster
