@@ -60,6 +60,7 @@ javfree.me###text-2
 
 ! www.south-plus.net/
 ||www.south-plus.net/images/*.gif$image
+||south-plus.org/images/*.gif$image
 
 ! -------------------------------------Tesing------------------------------------- !
 
