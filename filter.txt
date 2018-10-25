@@ -7,7 +7,7 @@
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
 
-! 讓PTT網頁版的文章比較好擷取
+! Make web version of ptt articles can be easily clipped
 www.ptt.cc###navigation-container
 www.ptt.cc###topbar-container
 www.ptt.cc###article-polling
@@ -57,6 +57,7 @@ www.playpcesor.com###spb-information-bar
 
 ! javfree.me
 javfree.me###text-2
+javfree.me##.onesignal-bell-launcher-button
 
 ! www.south-plus.net/
 ||www.south-plus.net/images/*.gif$image
