@@ -68,4 +68,9 @@ javfree.me##.onesignal-bell-launcher-button
 ! myanimelist.net
 myanimelist.net##.banner-header-anime-straming
 
+! pixnet.net
+kyoonepiece.pixnet.net##.pixnet-happix-pilot__launcher-bubble__noti_msg-text
+||s.pixfs.net/common/pixhappix-ui-module/images/btn-happix-ufo.png$image
+
+
 ! -------------------------------------Tesing------------------------------------- !
