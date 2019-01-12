@@ -1,8 +1,8 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2018.11.14
-! Expires: 3 weeks (update frequency)
+! Last modified: 2019.01.12
+! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
@@ -72,5 +72,7 @@ myanimelist.net##.banner-header-anime-straming
 kyoonepiece.pixnet.net##.pixnet-happix-pilot__launcher-bubble__noti_msg-text
 ||s.pixfs.net/common/pixhappix-ui-module/images/btn-happix-ufo.png$image
 
+! userstyles.org
+userstyles.org##.android_button_banner
 
 ! -------------------------------------Tesing------------------------------------- !
