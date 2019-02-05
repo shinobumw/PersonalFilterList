@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.01.12
+! Last modified: 2019.02.06
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -64,6 +64,7 @@ javfree.me##.onesignal-bell-launcher-button
 ! www.south-plus.net
 ||www.south-plus.net/images/*.gif$image
 ||south-plus.org/images/*.gif$image
+||www.south-plus.net/images/*.jpg$image
 
 ! myanimelist.net
 myanimelist.net##.banner-header-anime-straming
