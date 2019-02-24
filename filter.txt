@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.02.06
+! Last modified: 2019.02.24
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -75,5 +75,8 @@ kyoonepiece.pixnet.net##.pixnet-happix-pilot__launcher-bubble__noti_msg-text
 
 ! userstyles.org
 userstyles.org##.android_button_banner
+
+! ebb.io
+@@||admax.network^$script,domain=ebb.io
 
 ! -------------------------------------Tesing------------------------------------- !
