@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.03.04
+! Last modified: 2019.03.19
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -41,6 +41,8 @@ ourbits.club###ad_belownav
 iptorrents.com###body > tbody > tr > td > div:nth-of-type(1)
 ! totheglory.im
 ||p2.cdn.img9.top/ipfs/*.gif$image
+! torrentleech.org
+www.torrentleech.org##.text-center.highlight-address.message
 
 ! zh.moegirl.org
 zh.moegirl.org###siteNotice > .please-donate
@@ -76,4 +78,4 @@ userstyles.org##.android_button_banner
 ! -------------------------------------Tesing------------------------------------- !
 
 ! ebb.io
-@@||admax.network^$script,domain=ebb.io
+! @@||admax.network^$script,domain=ebb.io
