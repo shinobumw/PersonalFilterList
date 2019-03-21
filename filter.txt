@@ -1,13 +1,13 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.03.19
+! Last modified: 2019.03.22
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
 ! --------------------------------------------------------------------------- !
 
-! Make web version of ptt articles can be easily clipped
+! Make ptt articles can be easily clipped
 www.ptt.cc###navigation-container
 www.ptt.cc###topbar-container
 www.ptt.cc###article-polling
@@ -20,13 +20,6 @@ anime1.me###notifybar
 
 ! slader.com
 @@||plus.addkt.com/slader.js$script,domain=www.slader.com
-
-! nhentai.net
-! nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
-! nhentai.net##script:contains(show_popunders)
-! ||nhentai.net^$popup
-! ||nhentai.net/api/_/popunder?$important
-! ||nhentai.net/api/_/popunder?$important,popup
 
 ! Block ads on some pt sites
 ! hdhome.org
@@ -75,7 +68,16 @@ kyoonepiece.pixnet.net##.pixnet-happix-pilot__launcher-bubble__noti_msg-text
 ! userstyles.org
 userstyles.org##.android_button_banner
 
+! ebb.io
+@@||admax.network^$script,domain=ebb.io
+! https://github.com/uBlockOrigin/uAssets/issues/5192
+||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
+
 ! -------------------------------------Tesing------------------------------------- !
 
-! ebb.io
-! @@||admax.network^$script,domain=ebb.io
+! nhentai.net
+! nhentai.net##script:inject(abort-on-property-write.js, show_popunders)
+! nhentai.net##script:contains(show_popunders)
+! ||nhentai.net^$popup
+! ||nhentai.net/api/_/popunder?$important
+! ||nhentai.net/api/_/popunder?$important,popup
