@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.03.22
+! Last modified: 2019.05.01
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -45,6 +45,7 @@ live.sk-knower.com###outfeature
 
 ! www.playpcesor.com
 www.playpcesor.com###spb-information-bar
+www.playpcesor.com###ztb-slide-box-widget
 
 ! www.tenlong.com.tw
 www.tenlong.com.tw###fb-root
