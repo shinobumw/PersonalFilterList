@@ -63,10 +63,6 @@ javfree.me##.onesignal-bell-launcher-button
 ! myanimelist.net
 myanimelist.net##.banner-header-anime-straming
 
-! pixnet.net
-kyoonepiece.pixnet.net##.pixnet-happix-pilot__launcher-bubble__noti_msg-text
-||s.pixfs.net/common/pixhappix-ui-module/images/btn-happix-ufo.png$image
-
 ! userstyles.org
 userstyles.org##.android_button_banner
 
@@ -74,6 +70,9 @@ userstyles.org##.android_button_banner
 @@||admax.network^$script,domain=ebb.io
 ! https://github.com/uBlockOrigin/uAssets/issues/5192
 ||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
+
+! https://www.pixivision.net
+www.pixivision.net##.within-area.popped.with-popup.white._floated-bottom-bar
 
 ! -------------------------------------Tesing------------------------------------- !
 
