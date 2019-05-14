@@ -73,6 +73,7 @@ userstyles.org##.android_button_banner
 
 ! https://www.pixivision.net
 www.pixivision.net##.within-area.popped.with-popup.white._floated-bottom-bar
+www.pixivision.net##.within-area.with-popup.white._floated-bottom-bar
 
 ! -------------------------------------Tesing------------------------------------- !
 
