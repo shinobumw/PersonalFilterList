@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: shinobumw's list
 ! Author: shinobumw
-! Last modified: 2019.09.10
+! Last modified: 2019.11.22
 ! Expires: 4 weeks (update frequency)
 ! Homepage: https://github.com/shinobumw/PersonalFilterList
 ! From: https://raw.githubusercontent.com/shinobumw/PersonalFilterList/master/filter.txt
@@ -66,16 +66,20 @@ myanimelist.net##.banner-header-anime-straming
 ! userstyles.org
 userstyles.org##.android_button_banner
 
-! ebb.io
-@@||admax.network^$script,domain=ebb.io
-! https://github.com/uBlockOrigin/uAssets/issues/5192
-||pagead2.googlesyndication.com/pagead/js/$script,redirect=noopjs,domain=ebb.io
-
 ! www.pixivision.net
 www.pixivision.net##.within-area.with-popup.white._floated-bottom-bar
 
 ! www5.javmost.com
 www5.javmost.com##center > div:nth-of-type(1)
+
+! google.com
+www.google.com##[href^="https://store.google.com/"]
+www.google.com##[href^="https://about.google/"]
+www.google.com##a.Fx4vi:nth-of-type(3)
+www.google.com###fsl > a.Fx4vi:nth-of-type(2)
+www.google.com###fsl > a.Fx4vi:nth-of-type(1)
+www.google.com###fsr > a.Fx4vi:nth-of-type(1)
+www.google.com###fsr > a.Fx4vi:nth-of-type(2)
 
 
 ! -------------------------------------Tesing------------------------------------- !
