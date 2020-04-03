@@ -59,6 +59,7 @@ javfree.me##.onesignal-bell-launcher-button
 ||www.south-plus.net/images/*.gif$image
 ||south-plus.org/images/*.gif$image
 ||www.south-plus.net/images/*.jpg$image
+www.south-plus.net##div:nth-of-type(9)
 
 ! myanimelist.net
 myanimelist.net##.banner-header-anime-straming
@@ -81,6 +82,8 @@ www.google.com###fsl > a.Fx4vi:nth-of-type(1)
 www.google.com###fsr > a.Fx4vi:nth-of-type(1)
 www.google.com###fsr > a.Fx4vi:nth-of-type(2)
 
+! tracker.nofap.com
+||nofap.com/gatsby/public/$subdocument
 
 ! -------------------------------------Tesing------------------------------------- !
 
